@@ -1,0 +1,28 @@
+{
+  "name": "adhubmanila",
+  "version": "1.0.0",
+  "description": "javascript learning",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernie1969/My-First-Javasript-Learning.git"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "html",
+    "css"
+  ],
+  "author": "ernie1969",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernie1969/My-First-Javasript-Learning/issues"
+  },
+  "homepage": "https://github.com/ernie1969/My-First-Javasript-Learning#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
